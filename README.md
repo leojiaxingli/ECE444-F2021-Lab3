@@ -17,3 +17,10 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 ## Activity 4:
 
 ![a4](https://user-images.githubusercontent.com/33353574/135496613-1edad09a-aced-4928-9b4c-c7b53318a6b4.png)
+
+
+## Activity 5:
+
+One functional requirement I would like to improve is to list all courses that satisfy the filters when a search term is not provided. For example, if I choose the department to be "Computer Science" and course year to be 4 without a search term, I should get a list of all courses that Computer Science department provides. Currently the system returns nothing if no search term is given. This would restrict a user to explore all the options when they don't have a specific keyword in mind. By implementing the improvement, a user would be able to browse what courses are available when some restrictions are given. 
+
+One non-functional requirement I would like to improve is the ability to sort search results. Currently the search results seem to be listed by random order. If a user is able to sort search results, by department for example, they will have a clearer view when going over the result course list.
